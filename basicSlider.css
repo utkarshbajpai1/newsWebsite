@@ -1,0 +1,21 @@
+
+#slider{
+	width:1000px;
+	height:200px;
+	overflow:hidden;
+	margin:auto;
+}
+
+#slider .slides{
+	width:6000px;
+	height:200px;
+	margin:0;
+	padding:0;
+}
+
+#slider .slide{
+	width:1000px;
+	height:200px;
+	list-style:none;
+	float:left;
+}
